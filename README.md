@@ -1,5 +1,11 @@
 ## git
 
+**initialize/create a local repository <br>**
+`git init`
+
+**add to remote <br>**
+`git remote add origin https://github.com/prabuinet/DataStructures.git`
+
 **creates new branch and switches to that branch <br>**
 `git checkout -b new_branch`
 
