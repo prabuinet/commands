@@ -6,6 +6,9 @@
 **add to remote <br>**
 `git remote add origin https://github.com/prabuinet/DataStructures.git`
 
+**fetch master from remote <br>**
+`git pull origin master`
+
 **creates new branch and switches to that branch <br>**
 `git checkout -b new_branch`
 
