@@ -49,7 +49,7 @@ docker start 78bfb518b2b5031f885696ae1932156752c71fdca6f20c4d40a4af2b21ce5238
 docker start -a 78bfb518b2b5031f885696ae1932156752c71fdca6f20c4d40a4af2b21ce5238
 - a is for attach to the output of process and print it in the terminal
 
-## removing stopped containers
+## removing/deleting stopped containers 
 docker system prune 
 - this will remove all stopped containers
 - networks and dangling images
